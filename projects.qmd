@@ -1,0 +1,23 @@
+---
+toc: false
+---
+
+### Time Series Projects
+Here are my time series projects:   
+[Real U.S. GDP](/Econ 144 project 1.pdf)
+
+[Price of Crude Oil vs. Conventional Gasoline](/ECON 144 Project 2.pdf)
+
+[Annual US Common Stock Price](/project-2.pdf)
+
+### Classification Projects
+Here are my classification projects:   
+[Alcohol Status Prediction](/group_9 presentation.pdf)
+
+### Regression Projects:
+[Panel Data Analysis on Market Capitalization](/Project-3.pdf)
+
+[Pokemon Combat Power Prediction](/pj2.pdf)
+
+
+

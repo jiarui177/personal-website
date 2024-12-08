@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: Courses.qmd
+        text: Courses
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+
+
+

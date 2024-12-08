@@ -1,0 +1,6 @@
+- source: project
+  netlify:
+    - id: 334279b4-e6df-4129-ae5a-396981259e81
+      url: 'https://cool-cocada-8e327c.netlify.app'
+    - id: 805452ce-12b2-46ab-bd62-96789f62e0f1
+      url: 'https://helpful-faun-34edc9.netlify.app'

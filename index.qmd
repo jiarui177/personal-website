@@ -1,0 +1,29 @@
+---
+title: "Jiarui Song"
+about:
+  template: trestles
+  image: personal pic.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/jiarui177
+---
+
+Hello! My name is Jiarui Song, and I’m currently an undergraduate student at UCLA with a strong interest in data science and analytics. I am passionate about uncovering actionable insights from complex datasets and leveraging statistical modeling, machine learning, and data visualization to solve real-world problems. Through my studies and various projects, I’ve gained experience with programming languages like R, Python, and SQL, as well as numerous data analysis frameworks and tools. My goal is to become a skilled data analyst or data scientist, continually expanding my technical expertise and contributing meaningful data-driven solutions. Feel free to connect with me—I look forward to collaborating and discovering new ways to harness the power of data.
+
+
+#### DOWNLOAD[CV](/CV_Jiarui_Song.pdf)
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA      
+B.S in Statistics & Data Science and    
+B.S in Mathematics/Economics | Sept 2021 - June 2025
+
+## Experience
+
+Jazz Hands For Autism | Data Analyst and Research & Evaluation Internship | Jun 2024 – Dec 2024
+
+Pacific Wealth Solution, LLC | Data Analyst Internship | Jul 2024 – Sept 2024
+
+SACIVA | AI Studio Fellow | Aug 2024 – Dec 2024

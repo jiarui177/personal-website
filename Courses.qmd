@@ -1,0 +1,26 @@
+Here are the related coursework I have taken:
+
+
+### Mathematics Courses:
+- Multivariate Calculus
+- Linear Algebra
+- Differential Equations
+- Real Analysis
+- Discrete Structures
+- Optimization
+
+
+### Statistics Courses:
+- Probability Theory
+- Linear Models
+- Regression Analysis
+- Machine Learning (KNN, LDA, QDA, Random Forests, XGboost, Clustering)
+- Experiment Design
+- Monte Carlo Methods
+
+
+### Economics Courses:
+- Microeconomic Theory
+- Macroeconomic Theory
+- Economic Forecasting
+- Introduction to Econometrics
